@@ -1,6 +1,6 @@
 name = "Pagasartonga, Peter R."
 print(f"{name}")
 print ("Estrada Matthew Cymon S.")
-print("Villegas, Brian Isaac M.")
-print("Shierwin Carl T. Sandino")
+print("Brian Isaac M. Villegas")
 print("Francis I. Canto")
+print("Sandino, Shierwin Carl T.")
